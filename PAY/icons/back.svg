@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon / 20px / Arrow / Left, Black</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-/-20px-/-Arrow-/-Left,-Black">
+            <g id="Arrow">
+                <rect id="Footprint" x="0" y="0" width="20" height="20"></rect>
+                <path d="M0.6435,11.58 L8.7155,19.776 C9.0065,20.072 9.4815,20.075 9.7765,19.784 C10.0715,19.494 10.0755,19.019 9.7845,18.724 L1.9315,10.75 L19.2495,10.75 C19.6645,10.75 19.9995,10.414 19.9995,10 C19.9995,9.586 19.6645,9.25 19.2495,9.25 L1.9315,9.25 L9.7845,1.276 C10.0755,0.981 10.0715,0.506 9.7765,0.216 C9.6295,0.072 9.4405,0 9.2495,0 C9.0565,0 8.8625,0.075 8.7155,0.224 L0.6435,8.42 C-0.2145,9.291 -0.2145,10.709 0.6435,11.58" id="Arrow-left" fill="#87878a"></path>
+            </g>
+        </g>
+    </g>
+</svg>
